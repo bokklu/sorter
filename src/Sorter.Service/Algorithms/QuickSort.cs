@@ -25,7 +25,7 @@ namespace Sorter.Service.Algorithms
             var pivot = arr[right];
             var i = left;
 
-            for (int j = left; j < right; j++)
+            for (int j = left; j < right; ++j)
             {
                 if (arr[j] < pivot)
                 {

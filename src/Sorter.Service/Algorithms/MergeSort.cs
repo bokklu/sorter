@@ -31,8 +31,9 @@ namespace Sorter.Service.Algorithms
             Array.Copy(arr, left, leftArray, 0, middle - left + 1);
             Array.Copy(arr, middle + 1, rightArray, 0, right - middle);
 
-            int i = 0;
-            int j = 0;
+            var i = 0;
+            var j = 0;
+
             for (int k = left; k < right + 1; k++)
             {
                 if (i == leftArray.Length)
