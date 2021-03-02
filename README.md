@@ -20,7 +20,7 @@ Algorithm: BucketSort, Sorted Numbers: [1,2,3,5,6,7,10], Speed: 1.0264ms
 Bubble sort is a comparison sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through is repeated until the list is sorted. The algorithm is named for the way smaller or larger elements "bubble" to the top of the list.
 
 - Time Complexity:
-  - Best Case: 0(n)
+  - Best Case: O(n)
   - Worst Case: O(n²)
   - Average Case: O(n²)
 
