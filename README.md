@@ -1,6 +1,6 @@
 ![Sorter](https://i.imgur.com/sUgVSLZ.png)
 
-# Sorter [![GitHub](https://img.shields.io/github/license/bokklu/proxy-client?style=flat-square)](https://github.com/bokklu/proxy-client/blob/master/LICENSE) [![Target Framework](https://img.shields.io/static/v1?label=Target%20Framework&message=.NET%205.0&color=blue&style=flat-square)](https://dotnet.microsoft.com/download/dotnet/5.0)
+# Sorter [![Build](https://github.com/bokklu/sorter/actions/workflows/dotnet-build.yml/badge.svg)](https://github.com/bokklu/sorter/actions/workflows/dotnet-build.yml) [![GitHub](https://img.shields.io/github/license/bokklu/proxy-client?style=flat-square)](https://github.com/bokklu/proxy-client/blob/master/LICENSE) [![Target Framework](https://img.shields.io/static/v1?label=Target%20Framework&message=.NET%205.0&color=blue&style=flat-square)](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 A console application implementing some of the popular sorting algorithms.
 
