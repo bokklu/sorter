@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Sorter.Service": {
-      "commandName": "Project",
-      "commandLineArgs": "sort -a heapsort -n 4,10,3,5,1"
-    }
-  }
-}
